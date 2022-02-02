@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-<!--
+<!-- Power idea company product virtual network 
+Wifi an ble link access devices supported all around 
+world making an layer on layer protection base for
+Wifi company products via routers for user purpose
+
+Adding layer of low energy producing a similar process 
+given info with paperwork on it
 **blelink/blelink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
