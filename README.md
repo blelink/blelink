@@ -1,4 +1,4 @@
-### Hi there 👋
+### Companies.Inc👋
 
 <!-- Power idea company product virtual network 
 Wifi an ble link access devices supported all around 
