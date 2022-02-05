@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+BLE , hear communication funny thing isn't little play 
+on words considering BLE // Bluetooth is a way to connect
+to a device such being a bluetooth headset for talking 
+to another person. Ble being a low grade energy source
+taking the original Bluetooth out and upgrading digital
+tech.
 <!-- Power idea company product virtual network 
 Wifi an ble link access devices supported all around 
 world making an layer on layer protection base for
